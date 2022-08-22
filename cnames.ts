@@ -110,6 +110,9 @@ export default <CNAMEs> {
     target: "janda.up.railway.app",
     proxied: false,
   },
+  "kaismc": {
+    target: "kailingma.github.io/kaismcmods",
+  },
   "keyv": {
     target: "tejasag.github.io/deno-keyv",
   },
